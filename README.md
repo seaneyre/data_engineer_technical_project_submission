@@ -4,7 +4,7 @@ This submission has been written in Python 3.8.11.
 
 ## How to Run
 - Clone or download the repository.
-- Open console and cd to the location repository.
+- Open console and cd to the location of the repository.
 - Enter `python submission.py` in the console and run.
 
 ```

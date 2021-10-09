@@ -42,4 +42,3 @@ All of these packages are pre-installed as part of the Python3 standard library.
 - Some rough profiling results (see `memory_usage_analysis.py`):
     - `submission.py` average peak memory usage = 1.4MB
     - loading full sample.gz into memory = 178MB
-    - `submission.py` average time running = 494.6 seconds

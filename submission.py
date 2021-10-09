@@ -112,7 +112,7 @@ def create_postings_table(conn, if_exists='ignore'):
         city TEXT,
         onet TEXT,
         soc5 TEXT,
-        soc TEXT
+        soc2 TEXT
         )'''
         cursor.execute(sql)
         conn.commit()
